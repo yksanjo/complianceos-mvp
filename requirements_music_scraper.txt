@@ -1,0 +1,18 @@
+# Music Club Scraper Requirements
+# Core scraping packages
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+
+# Optional for advanced features
+playwright>=1.40.0  # For JavaScript-heavy sites
+googlesearch-python>=1.2.0  # For automated Google searches
+pandas>=2.0.0  # For data analysis and CSV handling
+
+# Development tools
+python-dotenv>=1.0.0  # For environment variables
+tqdm>=4.65.0  # For progress bars
+
+# Installation command:
+# pip install -r requirements_music_scraper.txt
+# playwright install chromium  # If using Playwright

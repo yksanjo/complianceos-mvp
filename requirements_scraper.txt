@@ -1,0 +1,12 @@
+# Crunchbase Scraper Requirements
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+playwright>=1.40.0
+lxml>=4.9.0
+python-dotenv>=1.0.0
+
+# Optional for advanced features
+pandas>=2.0.0  # For data analysis
+redis>=4.5.0   # For distributed caching
+celery>=5.3.0  # For task queue
+aiohttp>=3.9.0 # For async scraping

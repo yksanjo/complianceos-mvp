@@ -1,0 +1,1 @@
+/Users/yoshikondo/.openclaw/AGENT_KILL_SWITCH.sh
